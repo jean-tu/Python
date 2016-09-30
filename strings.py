@@ -20,4 +20,9 @@ print str(number)
 
 #STRING FORMATTING
 print
-print "~~~~~~String Formatting~~~~~~"
+print "~~~~~~String Printing~~~~~~"
+print "You can put percent in place of where a string can go"
+string_1 = "String one"
+string_2 = "String two"
+
+print "First variable:  %s. 'Second variable:  %s." % (string_1, string_2)

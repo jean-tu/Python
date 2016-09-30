@@ -2,5 +2,7 @@ This is just going to be an index of all of the rolling lessons, just so that it
 * Lesson 1 = Variables
   variables.py
   strings.py
+    - the different functions that you can operate on a string 
 * Lesson 2 =
   inputOutput.py
+    - how to get input from the user
