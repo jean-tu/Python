@@ -1,3 +1,6 @@
 This is just going to be an index of all of the rolling lessons, just so that it's easier to keep track of them:
 * Lesson 1 = Variables
   variables.py
+  strings.py
+* Lesson 2 =
+  inputOutput.py

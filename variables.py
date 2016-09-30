@@ -5,4 +5,4 @@
 
 my_variable = 10; #automatically sets my_variable to 10
 my_name = "Jean Tu"; #It's cool how we don't have to declare the type
-print my_name; 
+print my_name;
