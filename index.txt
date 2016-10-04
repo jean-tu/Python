@@ -1,8 +1,17 @@
 This is just going to be an index of all of the rolling lessons, just so that it's easier to keep track of them:
-* Lesson 1 = Variables
-  variables.py
-  strings.py
-    - the different functions that you can operate on a string 
-* Lesson 2 =
+The files are sorted alphabetically
+  boolean.py
+    - learning about the different boolean operations that can be done
+  comparisons.py
+    - list the different comparisons
+    - list the different booleans in the boolean table with what the outcome would be if they were combined with "and" and "or" operators
+  imports.py
+    - learning about the different libraries that you can import
   inputOutput.py
     - how to get input from the user
+  functions.py
+    - how to declare functions as well as be able to use them
+  strings.py
+    - the different functions that you can operate on a string
+  variables.py
+    - just to learn about variables and what you can do with them
