@@ -5,6 +5,8 @@ The files are sorted alphabetically
   comparisons.py
     - list the different comparisons
     - list the different booleans in the boolean table with what the outcome would be if they were combined with "and" and "or" operators
+  conditionals.py
+    - learning how to use the if, if
   imports.py
     - learning about the different libraries that you can import
   inputOutput.py
