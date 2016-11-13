@@ -17,3 +17,5 @@ The files are sorted alphabetically
     - the different functions that you can operate on a string
   variables.py
     - just to learn about variables and what you can do with them
+  stringLength.py
+    - learning how to use the length function to find the length of a string, to include with the conditionals 
