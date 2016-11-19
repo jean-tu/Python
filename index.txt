@@ -18,4 +18,6 @@ The files are sorted alphabetically
   variables.py
     - just to learn about variables and what you can do with them
   stringLength.py
-    - learning how to use the length function to find the length of a string, to include with the conditionals 
+    - learning how to use the length function to find the length of a string, to include with the conditionals
+  pigLatin.py
+    - converts a word that is entered into pigLatin, where the first letter is added to the end and there is an "ay" added to the end
