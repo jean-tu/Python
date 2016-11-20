@@ -1,6 +1,13 @@
 #Notes
 This is just going to be a readme file that will kind of just document what I've learned from the codeacademy class and the index.txt is the file that lists how I am using the things that I am learning.
 
+##Random good to knows
+* You can take the max of arguments with `max(arg1, arg2,....)`
+* You can take the min of arguments with `min(arg1, arg2,....)`
+* You can take the absolute value of a number with `abs(number)`
+* You can figure out the type of something with `type(value)`
+
+
 ##Comments
 You can comment the code using 3 Quote marks at the beginning and at the end of the statement or you can use a hashtag
 
@@ -12,3 +19,26 @@ You can comment the code using 3 Quote marks at the beginning and at the end of 
 ##Functions
 You declare a function by using `def function_name(): `
 To call on a function, you just do `function_name()` when ever you want to call on it
+
+You can take in all of the arguments passed into a function with `def function_name(*args)` the  `*args` is what allows you to take in all of the arguments, however, it would be hard to know which one is which because every time you would have to just reference  `args`
+
+
+##Import statements
+You can use import statements to use previously defined functions, it's bascially importing a library.
+
+```python
+import math
+print math.sqrt(25) #this will allow you to print 5 because the sqrt function is defined within the math library
+```
+You can also only import a specific function from a library by using `from library import function`
+
+```python
+from math import sqrt
+```
+
+You can also print everything that is inside a library by doing:
+```python
+import math            # Imports the math module
+everything = dir(math) # Sets everything to a list of things from math
+print everything       # Prints 'em all!
+```
