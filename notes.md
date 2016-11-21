@@ -42,3 +42,26 @@ import math            # Imports the math module
 everything = dir(math) # Sets everything to a list of things from math
 print everything       # Prints 'em all!
 ```
+
+##Lists
+* It seems like lists are similar to arrays in Java & C++ b/c an empty list is `empty_list = []` and you can use indexing to access a value
+* You can add additional items to the list with `list_name.append(value)`
+
+###Slicing strings
+
+```python
+animals = "catdogfrog"
+cat  = animals[:3]   # The first three characters of animals
+dog  = animals[3:6]   # The fourth through sixth characters
+frog = animals[6:10]  # From the seventh character to the end
+```
+
+###How to replace an item within a list that is kind of like a map
+
+```python
+animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
+duck_index = animals.index("duck")   # Use index() to find "duck"
+# Your code here!
+animals.insert(duck_index, "cobra")
+print animals # Observe what prints after the insert operation
+```
